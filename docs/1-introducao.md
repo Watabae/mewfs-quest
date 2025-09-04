@@ -1,5 +1,2 @@
 ### Introdução
-- Qual a ideia principal do seu jogo? 
-- Que tipo de experiência você quer dar para o seu jogador?
-
-    
+O jogo é uma experiência de sobrevivência contra hordas, onde o jogador utilizará Mewf, um pequeno monstro, ele começará frágil, mas vai evoluindo suas habilidades até se tornar poderoso. A cada partida, ele deve escolher upgrades e combinações únicas, criando estratégias diferentes para resistir o máximo de tempo possível. A proposta é entregar ao jogador a sensação de crescimento explosivo e caos divertido e rejogabilidade.
